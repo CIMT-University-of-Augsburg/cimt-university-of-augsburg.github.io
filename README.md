@@ -1,6 +1,6 @@
 ## **University of Augsburg — Faculty of Computer Science**
 
-[![Website](https://img.shields.io/badge/Website-uni--augsburg.de-blue)](https://cimt-university-of-augsburg.github.io/)
+[![Website](https://img.shields.io/badge/Website-CIMT.io-blue)](https://cimt-university-of-augsburg.github.io/)
 
 ---
 
