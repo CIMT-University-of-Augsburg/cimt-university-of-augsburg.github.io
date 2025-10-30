@@ -35,10 +35,3 @@ We provide a fully automated, modular pipeline for high-density (280-channel) EG
 ✅ **No manual intervention required**  
 ✅ **Reproducible, standardized, and zero-config**  
 ✅ Designed for **batch processing** and **non-expert users**
-
-```mermaid
-flowchart LR
-    A[Raw EEG] --> B(ICA_Xtra)
-    B --> C(LCMV_Xtra)
-    C --> D(FC_Xtra)
-    D --> E[Connectivity Matrix]
